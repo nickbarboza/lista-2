@@ -77,43 +77,43 @@ public class Menu
                     break;
                     
                      case 11:
-                    AtividadesCondicionais.Atividade11();
+                    AtividadesRepeticao.Atividade11();
                     break;
                     
                     case 12:
-                    AtividadesRepeticao.cs.Atividade12();
+                    AtividadesRepeticao.Atividade12();
                     break;
 
                     case 13:
-                    AtividadesRepeticao.cs.Atividade13();
+                    AtividadesRepeticao.Atividade13();
                     break;
 
                     case 14:
-                    AtividadesRepeticao.cs.Atividade14();
+                    AtividadesRepeticao.Atividade14();
                     break;
 
                     case 15:
-                    AtividadesRepeticao.cs.Atividade15();
+                    AtividadesRepeticao.Atividade15();
                     break;
 
                     case 16:
-                    AtividadesRepeticao.cs.Atividade16();
+                    AtividadesRepeticao.Atividade16();
                     break;
 
                     case 17:
-                    AtividadesRepeticao.cs.Atividade17();
+                    AtividadesRepeticao.Atividade17();
                     break;
 
                    case 18:
-                    AtividadesRepeticao.cs.Atividade18();
+                    AtividadesRepeticao.Atividade18();
                     break;
 
                     case 19:
-                    AtividadesSistemas.cs.Atividade19();
+                    AtividadesSistemas.Atividade19();
                     break;
 
                     case 20:
-                    AtividadesSistemas.cs.Atividade20();
+                    AtividadesSistemas.Atividade20();
                     break;
 
                 case 0:
